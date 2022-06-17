@@ -1,0 +1,1 @@
+# ExercicioAdapter_EGIII
